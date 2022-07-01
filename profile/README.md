@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/home.png" alt="Visit Positions" width="200">
+  <img src="/img/home.png" alt="Visit Positions" width="400">
 </p>
 
 ---
